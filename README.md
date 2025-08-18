@@ -1,4 +1,4 @@
-# my355-drivers
+# miyoo355-drivers
 
 Miyoo Flip latest firmware:
 * `miyoo355_fw.img` - miyoo355 v20250627233124
