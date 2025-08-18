@@ -1,5 +1,8 @@
 # my355-drivers
 
+Miyoo Flip latest firmware:
+* `miyoo355_fw.img` - miyoo355 v20250627233124
+
 Kernel module (.ko) drivers extracted from the Miyoo Flip (my355) internal storage:  
 * `rtk_btusb.ko` - Realtek Bluetooth USB Driver v3.1.10c6ed8.20240920-181229
 * `RTL8189FU.ko` - Realtek Wireless LAN Driver v5.11.5.4-0-g65b8f0aad.20220413
